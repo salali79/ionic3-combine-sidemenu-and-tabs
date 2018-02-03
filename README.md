@@ -64,6 +64,9 @@ export class HomePage {
   </ion-tabs>
 </ion-content>
 ```
+----------------------------------
+### **Result**
+
 <div width="100%">
   <img src="https://raw.githubusercontent.com/wkddnjset/wkddnjset.github.io/master/_posts/images/2018-02-04/ionic_01.png" width="300"/> 
   <img src="https://raw.githubusercontent.com/wkddnjset/wkddnjset.github.io/master/_posts/images/2018-02-04/ionic_02.png" width="300"/>
