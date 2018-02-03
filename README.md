@@ -3,7 +3,7 @@
 
 
 
-{% highlight html linenos %}
+```typescript
 <ion-content>
 ...
   <ion-tabs>
@@ -12,4 +12,4 @@
     <ion-tab [root]="tab3Root" tabTitle="item three" tabIcon="contacts"></ion-tab>
   </ion-tabs>
 </ion-content>
-{% endhighlight %}
+```
