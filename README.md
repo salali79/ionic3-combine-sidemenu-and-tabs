@@ -64,11 +64,9 @@ export class HomePage {
   </ion-tabs>
 </ion-content>
 ```
-
-![ionic-01](https://raw.githubusercontent.com/wkddnjset/wkddnjset.github.io/master/_posts/images/2018-02-04/ionic_01.png | width=400)
-
-
-![ionic-02](https://raw.githubusercontent.com/wkddnjset/wkddnjset.github.io/master/_posts/images/2018-02-04/ionic_02.png | width=400)
-
+<div>
+<img src="https://raw.githubusercontent.com/wkddnjset/wkddnjset.github.io/master/_posts/images/2018-02-04/ionic_01.png" width="300" style="float:left"/>
+<img src="https://raw.githubusercontent.com/wkddnjset/wkddnjset.github.io/master/_posts/images/2018-02-04/ionic_02.png" width="300" style="float:left/>
+</div>
 You can remove all header tags in TabsPage .html
 It will look like this
