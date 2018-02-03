@@ -1,3 +1,5 @@
+
+
 <ion-header>
   <ion-navbar>
     <button ion-button menuToggle>
@@ -15,4 +17,9 @@
   </p>
 
   <button ion-button secondary menuToggle>Toggle Menu</button>
+  <ion-tabs>
+    <ion-tab [root]="tab1Root" tabTitle="Tab1Page" tabIcon="home"></ion-tab>
+    <ion-tab [root]="tab2Root" tabTitle="Tab2Page" tabIcon="information-circle"></ion-tab>
+    <ion-tab [root]="tab3Root" tabTitle="Tab3Page" tabIcon="contacts"></ion-tab>
+  </ion-tabs>
 </ion-content>
